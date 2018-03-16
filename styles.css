@@ -1,0 +1,14 @@
+.beach {
+  width: 600px;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  font-family: 'Rammetto One', cursive;
+  font-size: 100px;
+  text-align: center;
+  color: blue;
+}
